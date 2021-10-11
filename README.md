@@ -1,7 +1,7 @@
 # Emily-Adventure
-It's a racing-car and adventure game based on Unity
-使用軟體 Unity
-使用程式語言 C#
+It's a racing-car and adventure game based on Unity  
+使用版本 Unity2020.3.10f1  
+使用程式語言 C#  
 
 ## 遊戲簡介
 在距離地球遙遠的碰瓷城市，生活著一位叫艾蜜莉的同學，在這座城市裡面還有著五位賽車訓練員，分別是碰瓷葛格、APPLE 、ARISA 、ERIKA以及KEVIN，艾蜜莉必須要透過幫助這五位訓練員完成任務、才能夠學習到駕駛賽車的技巧以致於通過最後的賽車關卡，快進入遊戲來幫助艾蜜莉吧!  
