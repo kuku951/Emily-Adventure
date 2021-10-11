@@ -2,7 +2,7 @@
 It's a racing-car and adventure game based on Unity  
 使用版本 Unity2020.3.10f1  
 使用程式語言 C#  
-
+檔案過大rrr 
 ## 遊戲簡介
 在距離地球遙遠的碰瓷城市，生活著一位叫艾蜜莉的同學，在這座城市裡面還有著五位賽車訓練員，分別是碰瓷葛格、APPLE 、ARISA 、ERIKA以及KEVIN，艾蜜莉必須要透過幫助這五位訓練員完成任務、才能夠學習到駕駛賽車的技巧以致於通過最後的賽車關卡，快進入遊戲來幫助艾蜜莉吧!  
 ![image](https://user-images.githubusercontent.com/63222978/136793409-e7c03197-8528-4d76-ab8c-7e44678f85d3.png)
