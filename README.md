@@ -8,8 +8,15 @@ It's a racing-car and adventure game based on Unity
 ![image](https://user-images.githubusercontent.com/63222978/136793409-e7c03197-8528-4d76-ab8c-7e44678f85d3.png)
 ## 遊戲玩法
 ###### 碰瓷世界:
-本遊戲一開始會先進入碰瓷世界中，碰瓷葛格會先與玩家對話，主角的移動方式是使用上下左右鍵(前進後退轉向)，在碰瓷世界中，必須完成每位NPC所請求的任務，而NPC就會教玩家賽車的技巧，最後再讓玩家去到碰瓷越野拉力賽在倒數計時的時間內完成賽道。
-###### 碰瓷越野拉力賽:
+本遊戲一開始會先進入碰瓷世界中，碰瓷葛格會先與玩家對話，主角的移動方式是使用上下左右鍵(前進後退轉向)，在碰瓷世界中，必須完成每位NPC所請求的任務，而NPC就會教玩家賽車的技巧，最後再讓玩家去到碰瓷越野拉力賽在倒數計時的時間內完成賽道。  
+![n5](https://user-images.githubusercontent.com/63222978/136806661-662f24cd-f896-46bd-90ad-eeab0722351b.jpg)
+![n1](https://user-images.githubusercontent.com/63222978/136806662-4ab96b2e-a208-494c-a443-be96a61a0ad4.jpg)
+![n2](https://user-images.githubusercontent.com/63222978/136806663-dc2a9dbf-0989-4597-ad8e-89833790bfdb.jpg)
+![n3](https://user-images.githubusercontent.com/63222978/136806665-63a4d981-35be-4696-87a7-710a1f8b15bb.jpg)
+![n4](https://user-images.githubusercontent.com/63222978/136806667-4369d226-62e4-439f-be00-4625f2a50da1.jpg)
+
+
+###### 碰瓷越野拉力賽:!
 在進入到碰瓷越野拉力賽後，會倒數計時兩分鐘，必須在兩分鐘內完成賽道，賽車的控制為:上下左右以及空白鍵(小剎車)，然後再一定速度的情況下把上鍵放開，用左右鍵去控制時會有拖飄的效果，如果要離開畫面必須按Esc鍵會跳出選單。
 ## 碰瓷世界工作流程圖
 ![1](https://user-images.githubusercontent.com/63222978/136793673-39b94583-c609-4278-be15-95119b4bc7a9.jpg)
